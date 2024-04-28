@@ -1,0 +1,58 @@
+[
+{
+	"code": "CMSC 12",
+	"title": "Foundations of Computer Science",
+	"desc": "An overview of the major areas of computer science.",
+	"units": 3,
+	"sem_offered": ["1", "2"]
+},
+{
+	"code": "CMSC 21",
+	"title": "Fundamentals of Programming",
+	"desc": "Introduction to computer programming using a procedural high-level language. Program design, testing and debugging.",
+	"units": 3,
+	"sem_offered": ["1", "2", "M"]
+},
+{
+	"code": "CMSC 22",
+	"title": "Object-Oriented Programming",
+	"desc": "Objects, design and implementation of object-oriented programs.",
+	"units": 3,
+	"sem_offered": ["1", "2"]
+},
+{
+	"code": "CMSC 23",
+	"title": "Mobile Development",
+	"desc": "Methods and techniques for developing mobile applications.",
+	"units": 3,
+	"sem_offered": ["1", "2"]
+},
+{
+	"code": "CMSC 56",
+	"title": "Discrete Mathematical Structures in Computer Science I",
+	"desc": "Principles of logic, set theory, relations and functions, Boolean algebra and linear algebra.",
+	"units": 3,
+	"sem_offered": ["1", "2"]
+},
+{
+	"code": "CMSC 57",
+	"title": "Discrete Mathematical Structures in Computer Science II",
+	"desc": "Principles of combinatorics, probability, algebraic systems and graph theory.",
+	"units": 3,
+	"sem_offered": ["2", "M"]
+},
+{
+	"code": "CMSC 100",
+	"title": "Web Programming",
+	"desc": "Design and implementation of web applications",
+	"units": 3,
+	"sem_offered": ["1", "2"]
+},
+{
+	"code": "CMSC 123",
+	"title": "Data Structures",
+	"desc": "Abstract data types and implementation; lists, stacks, queues, trees, mappings, sets and graphs, searching and sorting techniques; dynamic storage management.",
+	"units": 3,
+	"sem_offered": ["1", "2"]
+}
+]
